@@ -1,0 +1,16 @@
+{
+  "name": "digiasset_v3_constants",
+  "version": "1.0.0",
+  "description": "Constants used in DigiAsset V3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Matthew Cornelisse",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/digiassetX/digiasset_v3_constants"
+  }
+}
