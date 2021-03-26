@@ -1,2 +1,2 @@
-# https-github.com-digiassetX-digiasset_v3_constants
+# digiasset V3 Constants
 Constants used in DigiAsset V3
